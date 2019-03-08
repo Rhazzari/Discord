@@ -3,7 +3,14 @@
 ::selection {background:var(--main-color-faded) !important;}
 /*
 /$$$$$$
-
+/$$__  $$
+| $$  \ $$ /$$   /$$  /$$$$$$   /$$$$$$   /$$$$$$  /$$$$$$
+| $$$$$$$$| $$  | $$ /$$__  $$ /$$__  $$ /$$__  $$|____  $$
+| $$__  $$| $$  | $$| $$  \__/| $$  \ $$| $$  \__/ /$$$$$$$
+| $$  | $$| $$  | $$| $$      | $$  | $$| $$      /$$__  $$
+| $$  | $$|  $$$$$$/| $$      |  $$$$$$/| $$     |  $$$$$$$
+|__/  |__/ \______/ |__/       \______/ |__/      \_______/
+	       		By Tropical
 
 TABLE OF CONTENTS
 
@@ -337,7 +344,7 @@ body::before {
 /*3. Chat*/
 /*3.a. Messages and Codeblocks*/
 .da-containerCozy .inner-zqa7da {
-	background:rgba(0,0,0,0.25) !important;
+	background:rgba(0,0,0,1) !important;
 }
 [class*="avatar-"], .image-33JSyf {
 	box-shadow: 0.5px 0.5px 2px black !important;
